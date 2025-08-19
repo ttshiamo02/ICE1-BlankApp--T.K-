@@ -26,7 +26,7 @@ Before running this app, make sure you have:
 - Node.js (version 16 or later)
 - Expo Go app on your mobile device OR an emulator/simulator
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    git clone https://github.com/ttshiamo02/my-app.git
