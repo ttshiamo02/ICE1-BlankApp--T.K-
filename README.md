@@ -12,6 +12,10 @@ This is my first React Native application created as part of learning mobile dev
 - Clean, centered layout with custom styling
 - Cross-platform compatibility (iOS, Android, Web)
 
+## Screenshot
+<img width="877" height="1079" alt="Screenshot 2025-08-19 182606" src="https://github.com/user-attachments/assets/745a5b55-91ac-4cc0-875b-3337a1769a83" />
+
+
 ##  Technologies Used
 
 - **React Native**- Mobile app framework
