@@ -2,24 +2,24 @@
 
 A simple "Hello World" React Native application built with Expo, displaying a personalized greeting message.
 
-## 📱 App Overview
+##  App Overview
 
 This is my first React Native application created as part of learning mobile development. The app displays a simple greeting message with my name on the screen.
 
-## 🚀 Features
+##  Features
 
 - Displays personalized greeting: "Hello, Tshiamo!"
 - Clean, centered layout with custom styling
 - Cross-platform compatibility (iOS, Android, Web)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-- **React Native** - Mobile app framework
+- **React Native**- Mobile app framework
 - **Expo** - Development platform and tools
 - **TypeScript** - Type-safe JavaScript
 - **React** - UI library
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this app, make sure you have:
 
@@ -42,7 +42,7 @@ Before running this app, make sure you have:
    - **On Android Emulator**: Press `a` in the terminal
    - **On Web**: Press `w` in the terminal
 
-## 📱 Running on BlueStacks
+##  Running on BlueStacks
 
 If you're using BlueStacks Android emulator:
 
@@ -50,7 +50,7 @@ If you're using BlueStacks Android emulator:
 2. Enable Developer Options and USB Debugging
 3. Use the QR code or enter the development server URL manually
 
-## 📂 Project Structure
+##  Project Structure
 
 
 my -app
@@ -77,7 +77,7 @@ export default function App() {
 }
 ```
 
-## 🎯 Learning Objectives Achieved
+## Learning Objectives Achieved
 
 - [x] Successfully set up Expo development environment
 - [x] Created and modified React Native components
