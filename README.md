@@ -1,4 +1,4 @@
-# My First Expo React Native App
+# My App
 
 A simple "Hello World" React Native application built with Expo, displaying a personalized greeting message.
 
